@@ -1,0 +1,10 @@
+.ropeproject
+.DS_Store
+1280720/
+1280720boxes/
+boxes/
+cropped_train/
+sample_submission_stg1.csv
+sizes
+test_stg1/
+train/
